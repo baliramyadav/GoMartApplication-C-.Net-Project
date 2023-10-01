@@ -127,6 +127,11 @@ namespace GoMartApplication
             }
         }
 
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
         private void clrValue()
         {
             cmbRole.SelectedIndex = 0;
